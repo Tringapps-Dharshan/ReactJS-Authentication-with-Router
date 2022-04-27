@@ -1,6 +1,5 @@
 import React from "react";
-import { Link, Outlet } from "react-router-dom";
-import {useNavigate} from "react-router-dom";
+import { Link, Outlet, useNavigate } from "react-router-dom";
 import { useAuth } from "./Auth";
 function Courses(){
     const auth = useAuth();
