@@ -1,0 +1,23 @@
+h1{
+    font-family:Arial;
+}
+.links{
+    text-decoration: none;
+    color: hotpink;
+    padding: 10px;
+    margin: 5px;
+}
+.links:hover{
+    background-color: sandybrown;
+    color: black;
+}
+.container{
+    background-color: #333;
+    padding: 10px;
+    text-align: right;
+    border-top: solid hotpink 1px;
+}
+.logout{
+    background-color: crimson;
+    color: white;
+}

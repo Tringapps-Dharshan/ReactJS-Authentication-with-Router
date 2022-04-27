@@ -1,0 +1,15 @@
+input,button{
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+    margin: 2px;
+}
+button{
+    background-color:crimson;
+    color: whitesmoke;
+    cursor: pointer;
+}
+button:hover{
+    background-color:rgb(247, 13, 60);
+    color: whitesmoke;
+}

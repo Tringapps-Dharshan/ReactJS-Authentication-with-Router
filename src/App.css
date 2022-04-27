@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.navbar{
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+.link{
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  color:orchid;
+  margin: 5px;
+  font-size: large;
+}
+.link:hover{
+  background-color: rgb(236, 219, 69);
+  color: #000;
+  border-radius: 2px;
+}
